@@ -8,6 +8,8 @@ Use a weather API (e.g., OpenWeatherMap) for fetching data.
 
 <img src="/record2.gif" width="250" height="500"/>
 
+for running, make sure you ahve an api key from openwathermap: https://home.openweathermap.org/users/sign_in
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 

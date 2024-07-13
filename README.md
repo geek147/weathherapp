@@ -6,7 +6,7 @@ Show a 5-day forecast for the entered city.
 Allow users to save favorite cities and view their weather quickly.
 Use a weather API (e.g., OpenWeatherMap) for fetching data.
 
-<img src="/record2.gif" width="250" height="250"/>
+<img src="/record2.gif" width="250" height="500"/>
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
